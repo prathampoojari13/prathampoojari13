@@ -77,6 +77,8 @@ A digital campus canteen platform with online menu browsing, cart management, or
 
 **LinkedIn:** [Pratham K](https://www.linkedin.com/in/pratham-k-514657426/)
 
+🌐 **Portfolio:** [View My Portfolio](View My Portfolio)
+
 ---
 
 ### 💡 "Learn. Build. Improve. Repeat."
