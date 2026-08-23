@@ -73,9 +73,9 @@ A digital campus canteen platform with online menu browsing, cart management, or
 
 ## 🤝 Connect With Me
 
-**GitHub:** [@prathampoojari13](https://github.com/prathampoojari13)
+🐙 **GitHub:** [@prathampoojari13](https://github.com/prathampoojari13)
 
-**LinkedIn:** [Pratham K](https://www.linkedin.com/in/pratham-k-514657426/)
+💼 **LinkedIn:** [Pratham K](https://www.linkedin.com/in/pratham-k-514657426/)
 
 🌐 **Portfolio:** [View My Portfolio](https://pratham-portfolio-six-kappa.vercel.app/)
 
