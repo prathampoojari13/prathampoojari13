@@ -83,8 +83,7 @@ A digital campus canteen platform with online menu browsing, cart management, or
 
 ## 📄 Resume
 
-[![View My Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge)](https://github.com/prathampoojari13/PK_RESUME_1YEAR.pdf)
+[![View My Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge)](https://github.com/prathampoojari13/resume/blob/main/PK_RESUME_1YEAR.pdf)
 
 ---
-
 ### 💡 "Learn. Build. Improve. Repeat."
