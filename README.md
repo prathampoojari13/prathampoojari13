@@ -1,89 +1,228 @@
-# Hi 👋, I'm Pratham K
+<h1 align="center">Hey 👋, I'm Pratham K</h1>
 
-### 🎓 Computer Science Engineering Student | BMSIT&M, Bengaluru 🇮🇳
+<h3 align="center">
+  Computer Science Engineering Student | Software Developer | AI Enthusiast
+</h3>
 
-I'm a **2nd-year Computer Science Engineering student** passionate about building practical software projects and continuously improving my problem-solving skills.
+<p align="center">
+  🎓 B.E. Computer Science Engineering @ BMSIT&M, Bengaluru 🇮🇳
+</p>
 
-* 💻 Interested in **Software Development & Web Development**
-* 🌱 Currently learning **Data Structures & Algorithms**
-* 🚀 Building real-world projects to strengthen my development skills
-* 🧠 Exploring new technologies through projects and hackathons
-* 🎯 Looking forward to internship opportunities and collaborative projects
+<p align="center">
+  <a href="https://github.com/prathampoojari13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratham-k-514657426/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pratham-portfolio-six-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
+## 👨‍💻 About Me
 
-### Programming Languages
+I'm a second-year Computer Science Engineering student passionate about building practical software, exploring AI, and solving real-world problems through technology.
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+* 💻 Interested in software engineering and full-stack development.
+* 🤖 Exploring AI-powered applications and intelligent developer tools.
+* 🧩 Strengthening my Data Structures & Algorithms and problem-solving skills.
+* 🚀 Building projects that combine practical engineering with innovative ideas.
+* 🌍 Exploring open-source contributions and collaborative development.
+* 🎯 Working toward software development internship opportunities.
 
-### Web & Database
+> **My approach:** Learn by building, experiment with new technologies, and continuously improve.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+---
 
-### Tools
+## 🛠️ Tech Stack
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🏙️ NammaFix — Smart Civic & Waste Management
+
+**Making Bengaluru cleaner through citizen participation and smarter technology.**
+
+A Bengaluru-focused civic-tech project aimed at improving waste collection visibility and making it easier for citizens to report illegal dumping and other waste-related issues.
+
+**Key Features**
+
+* 🗺️ Citizen-facing waste collection vehicle tracking and route visibility.
+* ⏱️ Estimated arrival information and collection notifications.
+* 📍 Location-aware reporting of illegal dumping.
+* 🎥 Citizen-submitted photo or video evidence for reported incidents.
+* 🤖 AI-assisted analysis of submitted reports.
+* 🌐 Multilingual and accessible citizen experience.
+
+**Tech Stack:** React • FastAPI • AI Integration • Maps
+
+---
+
+### 🛡️ MigrationGuard — AI Database Migration Safety Agent
+
+**Catch risky database migrations before they cause production problems.**
+
+An AI-powered developer tool designed to evaluate database migrations before execution through safety checks, shadow-database validation, and AI-assisted remediation.
+
+**Key Features**
+
+* 🔍 Multiple checks to evaluate migration safety.
+* 🧪 Shadow-database validation workflows.
+* 🚦 GO, WARN, or NO-GO migration safety decisions.
+* 🤖 Google ADK and Gemini integration for AI-assisted remediation.
+* 🧰 API endpoints for interacting with the migration safety workflow.
+
+**Tech Stack:** Python • FastAPI • SQLAlchemy • Google ADK • Gemini
+
+🔗 **[Live Demo](https://migrationguard.onrender.com/)** · **[API Documentation](https://migrationguard.onrender.com/docs)**
+
+---
+
+### 🚨 PostWire — Release Incident Commander
+
+**Helping developers investigate and respond to software release incidents.**
+
+A developer-focused project exploring AI-assisted incident response, monitoring integrations, and workflows for investigating release-related problems.
+
+**Key Features**
+
+* 📊 Monitoring-oriented incident workflows.
+* 🤖 AI-assisted incident analysis.
+* 🔧 Developer tooling for release incident investigation.
+* 🔗 Exploration of Grafana and MCP integrations.
+
+**Tech Stack:** React • FastAPI • Gemini • Grafana • MCP
+
+---
+
 ### 📚 Smart Library System
 
-A full-stack library management system designed to make book discovery, borrowing, reservations and fine management easier.
+**A full-stack platform for smarter library management.**
 
-**Tech:** React.js • FastAPI • MySQL
+A web application designed to simplify book discovery, borrowing, reservations, and fine management.
+
+**Key Features**
+
+* 📖 Book discovery and browsing.
+* 🔄 Borrowing and reservation workflows.
+* 👤 User authentication.
+* 🗄️ Database-backed library operations.
+
+**Tech Stack:** React • FastAPI • MySQL
+
+---
 
 ### 🍔 BMSIT Digital Canteen
 
-A digital campus canteen platform with online menu browsing, cart management, order tokens, staff order queue and campus wallet functionality.
+**A digital ordering experience built for campus canteens.**
 
-**Tech:** React.js • FastAPI • MySQL/PostgreSQL
+A campus-focused platform designed to streamline food ordering and help canteen staff manage incoming orders.
+
+**Key Features**
+
+* 🍽️ Digital menu browsing.
+* 🛒 Cart and order management.
+* 🎟️ Order token generation.
+* 👨‍🍳 Staff order queue.
+* 💳 Campus wallet functionality.
+
+**Tech Stack:** React • FastAPI • PostgreSQL / MySQL
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathampoojari13&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampoojari13&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prathampoojari13&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🌱 Currently Learning & Exploring
 
 * 🧩 Data Structures & Algorithms
 * 🌐 Full-Stack Web Development
-* 🐍 Advanced Python
-* 💡 Problem Solving
-* 🚀 Building better software projects
+* 🤖 AI Engineering and LLM-powered applications
+* 🔐 AI applications in cybersecurity
+* 🏗️ Backend engineering and software architecture
+* 🌍 Open-source development and collaboration
 
 ---
 
-## 🎯 Goals
+## 🎯 My Goals
 
-* Build strong foundations in **DSA and software development**
-* Participate in **hackathons and technical competitions**
-* Build impactful real-world projects
-* Secure a **software development internship**
-* Contribute to open-source projects
-
----
-
-## 🤝 Connect With Me
-
-🐙 **GitHub:** [@prathampoojari13](https://github.com/prathampoojari13)
-
-💼 **LinkedIn:** [Pratham K](https://www.linkedin.com/in/pratham-k-514657426/)
-
-🌐 **Portfolio:** [View My Portfolio](https://pratham-portfolio-six-kappa.vercel.app/)
+* Build useful software that addresses real-world problems.
+* Strengthen my foundations in DSA and software engineering.
+* Explore AI-powered systems beyond basic applications.
+* Contribute to meaningful open-source projects.
+* Participate in hackathons and technical competitions.
+* Prepare for software development internships.
 
 ---
 
-## 📄 Resume
+## 🤝 Let's Connect
 
-[![View My Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge)](https://github.com/prathampoojari13/resume/blob/main/PK_RESUME_1YEAR.pdf)
+<p align="center">
+  <a href="https://github.com/prathampoojari13">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pratham-k-514657426/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://pratham-portfolio-six-kappa.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
-### 💡 "Learn. Build. Improve. Repeat."
+
+<p align="center">
+  <b>Learn. Build. Experiment. Improve. Repeat. 🚀</b>
+</p>
+
+<p align="center">
+  <i>Building today, improving every day.</i>
+</p>
