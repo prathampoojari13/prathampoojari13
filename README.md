@@ -18,6 +18,9 @@
   <a href="https://pratham-portfolio-six-kappa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://github.com/prathampoojari13/resume/blob/main/PK_RESUME_1YEAR.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/>
+  </a>
 </p>
 
 ---
@@ -30,7 +33,10 @@ I'm a second-year Computer Science Engineering student passionate about building
 * 🤖 Exploring AI-powered applications and intelligent developer tools.
 * 🧩 Strengthening my Data Structures & Algorithms and problem-solving skills.
 * 🚀 Building projects that combine practical engineering with innovative ideas.
-* 🌍 Exploring open-source contributions and collaborative development.
+* 🌍 Contributing to open-source projects and learning through collaboration.
+* 🔌 Interested in exploring hardware, embedded systems, and hardware-software integration.
+* 🧠 Curious about computer architecture, semiconductor technology, and AI in embedded systems.
+* 🔐 Exploring applications of AI in cybersecurity.
 * 🎯 Working toward software development internship opportunities.
 
 > **My approach:** Learn by building, experiment with new technologies, and continuously improve.
@@ -83,7 +89,7 @@ I'm a second-year Computer Science Engineering student passionate about building
 
 A Bengaluru-focused civic-tech project aimed at improving waste collection visibility and making it easier for citizens to report illegal dumping and other waste-related issues.
 
-**Key Features**
+**Planned Features**
 
 * 🗺️ Citizen-facing waste collection vehicle tracking and route visibility.
 * ⏱️ Estimated arrival information and collection notifications.
@@ -93,6 +99,8 @@ A Bengaluru-focused civic-tech project aimed at improving waste collection visib
 * 🌐 Multilingual and accessible citizen experience.
 
 **Tech Stack:** React • FastAPI • AI Integration • Maps
+
+**Status:** In development
 
 ---
 
@@ -112,7 +120,17 @@ An AI-powered developer tool designed to evaluate database migrations before exe
 
 **Tech Stack:** Python • FastAPI • SQLAlchemy • Google ADK • Gemini
 
-🔗 **[Live Demo](https://migrationguard.onrender.com/)** · **[API Documentation](https://migrationguard.onrender.com/docs)**
+<p>
+  <a href="https://migrationguard.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="MigrationGuard Live Demo"/>
+  </a>
+  <a href="https://github.com/prathampoojari13/MigrationGuard">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MigrationGuard Repository"/>
+  </a>
+  <a href="https://migrationguard.onrender.com/docs">
+    <img src="https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="MigrationGuard API Documentation"/>
+  </a>
+</p>
 
 ---
 
@@ -120,16 +138,30 @@ An AI-powered developer tool designed to evaluate database migrations before exe
 
 **Helping developers investigate and respond to software release incidents.**
 
-A developer-focused project exploring AI-assisted incident response, monitoring integrations, and workflows for investigating release-related problems.
+An AI-powered incident commander designed for streaming platforms, combining release context, viewer quality-of-experience data, and infrastructure telemetry to investigate incidents and recommend corrective actions.
 
 **Key Features**
 
-* 📊 Monitoring-oriented incident workflows.
-* 🤖 AI-assisted incident analysis.
-* 🔧 Developer tooling for release incident investigation.
-* 🔗 Exploration of Grafana and MCP integrations.
+* 📊 Monitoring-oriented incident investigation workflows.
+* 🤖 AI-assisted incident analysis and root-cause investigation.
+* 🌍 Regional and device-specific quality-of-experience analysis.
+* 🔗 Grafana and Model Context Protocol (MCP) integration.
+* 🧠 Gemini and Google ADK integration.
+* 🛠️ Remediation recommendations.
 
-**Tech Stack:** React • FastAPI • Gemini • Grafana • MCP
+**Tech Stack:** React • TypeScript • FastAPI • Gemini • Google ADK • Grafana • MCP
+
+<p>
+  <a href="https://postwire-frontend.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="PostWire Live Demo"/>
+  </a>
+  <a href="https://github.com/prathampoojari13/PostWire">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="PostWire Repository"/>
+  </a>
+  <a href="https://postwire-kzex.onrender.com/docs">
+    <img src="https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="PostWire API Documentation"/>
+  </a>
+</p>
 
 ---
 
@@ -137,16 +169,30 @@ A developer-focused project exploring AI-assisted incident response, monitoring 
 
 **A full-stack platform for smarter library management.**
 
-A web application designed to simplify book discovery, borrowing, reservations, and fine management.
+A web application designed to simplify book discovery, borrowing, reservations, overdue fine calculations, and library administration.
 
 **Key Features**
 
 * 📖 Book discovery and browsing.
 * 🔄 Borrowing and reservation workflows.
-* 👤 User authentication.
+* 👤 JWT authentication and role-based access control.
+* ⏰ Due-date and overdue fine management.
 * 🗄️ Database-backed library operations.
+* 📊 Administrative analytics and inventory management.
 
-**Tech Stack:** React • FastAPI • MySQL
+**Tech Stack:** React • FastAPI • SQLAlchemy • PostgreSQL
+
+<p>
+  <a href="https://smart-library-system-3rby.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Smart Library Live Demo"/>
+  </a>
+  <a href="https://github.com/prathampoojari13/Smart-Library-System">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart Library Repository"/>
+  </a>
+  <a href="https://smart-library-backend-pbl6.onrender.com/docs">
+    <img src="https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Smart Library API Documentation"/>
+  </a>
+</p>
 
 ---
 
@@ -160,11 +206,24 @@ A campus-focused platform designed to streamline food ordering and help canteen 
 
 * 🍽️ Digital menu browsing.
 * 🛒 Cart and order management.
-* 🎟️ Order token generation.
-* 👨‍🍳 Staff order queue.
+* 🎟️ Token-based order identification.
+* 👨‍🍳 Staff order queue and kitchen workflow.
 * 💳 Campus wallet functionality.
+* 📊 Order management and reporting.
 
-**Tech Stack:** React • FastAPI • PostgreSQL / MySQL
+**Tech Stack:** React • FastAPI • PostgreSQL
+
+<p>
+  <a href="https://bmsit-digital-canteen-zufv.onrender.com/">
+    <img src="https://img.shields.io/badge/Live_Demo-Visit_App-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Digital Canteen Live Demo"/>
+  </a>
+  <a href="https://github.com/prathampoojari13/BMSIT-Digital-Canteen">
+    <img src="https://img.shields.io/badge/Source_Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Digital Canteen Repository"/>
+  </a>
+  <a href="https://bmsit-digital-canteen.onrender.com/docs">
+    <img src="https://img.shields.io/badge/API_Docs-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Digital Canteen API Documentation"/>
+  </a>
+</p>
 
 ---
 
@@ -174,14 +233,14 @@ A campus-focused platform designed to streamline food ordering and help canteen 
 
 <p>
   <a href="https://github.com/soft-track/soft-track/pull/360">
-    <img src="https://img.shields.io/badge/PR_%23360-Merged-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="SoftTrack PR #360 merged"/>
+    <img src="https://img.shields.io/badge/PR_%23360-Merged-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="SoftTrack PR #360 Merged"/>
   </a>
   <a href="https://github.com/soft-track/soft-track">
-    <img src="https://img.shields.io/badge/Repository-SoftTrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="SoftTrack repository"/>
+    <img src="https://img.shields.io/badge/Repository-SoftTrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="SoftTrack Repository"/>
   </a>
 </p>
 
-Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-source ticket-tracking application, through **[PR #360 — Fix payroll eligibility for non-payroll accounts](https://github.com/soft-track/soft-track/pull/360)**.
+Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-source, self-hostable issue tracker, through **[PR #360 — Fix payroll eligibility for non-payroll accounts](https://github.com/soft-track/soft-track/pull/360)**.
 
 **My Contributions**
 
@@ -195,10 +254,10 @@ Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-so
 
 <p>
   <a href="https://github.com/soft-track/soft-track/pull/360">
-    <img src="https://img.shields.io/badge/View_Merged_PR-360-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="View merged PR"/>
+    <img src="https://img.shields.io/badge/View_Merged_PR-360-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="View Merged PR"/>
   </a>
   <a href="https://github.com/soft-track/soft-track/commit/f1acaf5970e2a238ff414b72e7c3f566a19b4f87">
-    <img src="https://img.shields.io/badge/Merge_Commit-f1acaf5-238636?style=for-the-badge&logo=git&logoColor=white" alt="View merge commit"/>
+    <img src="https://img.shields.io/badge/Merge_Commit-f1acaf5-238636?style=for-the-badge&logo=git&logoColor=white" alt="View Merge Commit"/>
   </a>
 </p>
 
@@ -207,30 +266,33 @@ Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-so
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathampoojari13&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampoojari13&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathampoojari13&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampoojari13&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prathampoojari13&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=prathampoojari13&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/prathampoojari13?tab=repositories">Explore my repositories</a>
+  <a href="https://github.com/prathampoojari13?tab=repositories">Explore My Repositories</a>
   ·
-  <a href="https://github.com/prathampoojari13?tab=overview">View my GitHub activity</a>
+  <a href="https://github.com/prathampoojari13?tab=overview">View My GitHub Activity</a>
 </p>
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-* 🧩 Data Structures & Algorithms
-* 🌐 Full-Stack Web Development
-* 🤖 AI Engineering and LLM-powered applications
-* 🔐 AI applications in cybersecurity
-* 🏗️ Backend engineering and software architecture
-* 🌍 Open-source development and collaboration
+* 🧩 Data Structures & Algorithms.
+* 🌐 Full-Stack Web Development.
+* 🤖 AI Engineering and LLM-powered applications.
+* 🔐 AI applications in cybersecurity.
+* 🔌 Embedded systems and hardware-software integration.
+* 🧠 Computer architecture and semiconductor technology.
+* ⚙️ AI in embedded systems.
+* 🔬 How software interacts with processors, memory, and physical devices.
+* 🌍 Open-source development and collaboration.
 
 ---
 
@@ -239,6 +301,7 @@ Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-so
 * Build useful software that addresses real-world problems.
 * Strengthen my foundations in DSA and software engineering.
 * Explore AI-powered systems beyond basic applications.
+* Learn about embedded systems, hardware, and computer architecture.
 * Contribute to meaningful open-source projects.
 * Participate in hackathons and technical competitions.
 * Prepare for software development internships.
@@ -257,6 +320,9 @@ Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-so
   </a>
   <a href="https://pratham-portfolio-six-kappa.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/prathampoojari13/resume/blob/main/PK_RESUME_1YEAR.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-D32F2F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/>
   </a>
 </p>
 
