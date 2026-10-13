@@ -168,6 +168,42 @@ A campus-focused platform designed to streamline food ordering and help canteen 
 
 ---
 
+## 🌍 Open Source Contributions
+
+### 🧾 SoftTrack — Payroll Eligibility Fix
+
+<p>
+  <a href="https://github.com/soft-track/soft-track/pull/360">
+    <img src="https://img.shields.io/badge/PR_%23360-Merged-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="SoftTrack PR #360 merged"/>
+  </a>
+  <a href="https://github.com/soft-track/soft-track">
+    <img src="https://img.shields.io/badge/Repository-SoftTrack-181717?style=for-the-badge&logo=github&logoColor=white" alt="SoftTrack repository"/>
+  </a>
+</p>
+
+Contributed to [SoftTrack](https://github.com/soft-track/soft-track), an open-source ticket-tracking application, through **[PR #360 — Fix payroll eligibility for non-payroll accounts](https://github.com/soft-track/soft-track/pull/360)**.
+
+**My Contributions**
+
+* 🔍 Investigated why active accounts that should not receive payroll were appearing in draft payroll runs.
+* 🧪 Worked on payroll eligibility tests and database migration tests.
+* 🛠️ Addressed maintainer feedback and resolved a database migration-chain conflict.
+* 🤝 Collaborated with the maintainer to refine the implementation and align it with project requirements.
+* ✅ Successfully merged into the project's `main` branch.
+
+**Technologies:** Python • FastAPI • SQLAlchemy • Alembic • React • TypeScript • PostgreSQL • Pytest
+
+<p>
+  <a href="https://github.com/soft-track/soft-track/pull/360">
+    <img src="https://img.shields.io/badge/View_Merged_PR-360-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="View merged PR"/>
+  </a>
+  <a href="https://github.com/soft-track/soft-track/commit/f1acaf5970e2a238ff414b72e7c3f566a19b4f87">
+    <img src="https://img.shields.io/badge/Merge_Commit-f1acaf5-238636?style=for-the-badge&logo=git&logoColor=white" alt="View merge commit"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -177,6 +213,12 @@ A campus-focused platform designed to streamline food ordering and help canteen 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=prathampoojari13&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/prathampoojari13?tab=repositories">Explore my repositories</a>
+  ·
+  <a href="https://github.com/prathampoojari13?tab=overview">View my GitHub activity</a>
 </p>
 
 ---
@@ -200,6 +242,7 @@ A campus-focused platform designed to streamline food ordering and help canteen 
 * Contribute to meaningful open-source projects.
 * Participate in hackathons and technical competitions.
 * Prepare for software development internships.
+* Work toward contributing to Google Summer of Code.
 
 ---
 
